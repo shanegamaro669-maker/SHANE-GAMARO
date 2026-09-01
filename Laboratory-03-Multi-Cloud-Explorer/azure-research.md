@@ -28,3 +28,5 @@ Disaster Recovery & Backup: Creating secure, off-site backups and automated fail
 Data Analytics & Artificial Intelligence: Consolidating massive corporate data streams into Azure Synapse Analytics and building smart apps using Azure OpenAI Service.
 
 
+
+
